@@ -1,6 +1,7 @@
 {
   "name": "first-project",
   "version": "0.0.0",
+  "homepage" : "https://gmdestiny.github.io/first_angular/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,7 +9,6 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  “homepage” : "https://gmdestiny.github.io/first_angular/",
   "private": true,
   "dependencies": {
     "@angular/animations": "~13.2.0",
